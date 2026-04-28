@@ -11,6 +11,7 @@
 | Project | Description | Status |
 |---------|-------------|--------|
 | [TranslatorAI](https://github.com/XCarrzX/TranslatorAI) | AI-powered translator | ✅ Done |
+| [weather-cli](https://github.com/XCarrzX/weather-cli) | Real-time weather in terminal | Python, API | ✅ Done |
 
 ## 📈 GitHub Stats
 ![XCarrzX's GitHub stats](https://github-readme-stats.vercel.app/api?username=XCarrzX&show_icons=true&theme=tokyonight)
